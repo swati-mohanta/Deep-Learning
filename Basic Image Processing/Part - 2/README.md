@@ -1,6 +1,5 @@
-# **Image Processing Experiments using OpenCV and Python**
+# **Image Processing using OpenCV and Python**
 
-**Short Description:**
 This repository contains multiple image processing experiments using Python and OpenCV, including image arithmetic, thresholding, segmentation, blurring, edge detection, and filtering techniques. Each experiment demonstrates different functionalities and techniques for processing and analyzing images.
 
 ---
@@ -68,13 +67,13 @@ This repository contains multiple image processing experiments using Python and 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/swati-mohanta/Deep-Learning.git>
    ```
 2. Place your images in the project directory.
 3. Run the Python script:
 
    ```bash
-   python image_processing_experiments.py
+   python image_processing.py
    ```
 4. Visualize results for different experiments as plotted by Matplotlib.
 
