@@ -73,7 +73,7 @@ This repository demonstrates various image processing and feature extraction tec
 3. Run the Python script:
 
    ```bash
-   python image_processing_experiments.py
+   python image_feature_extraction.py
    ```
 4. Visualize results for different experiments as plotted by Matplotlib.
 
