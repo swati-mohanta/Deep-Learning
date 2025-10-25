@@ -67,7 +67,7 @@ This repository demonstrates various image processing and feature extraction tec
 1. Clone the repository:
 
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/swati-mohanta/Deep-Learning.git>
    ```
 2. Place your images in the project directory.
 3. Run the Python script:
