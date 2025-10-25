@@ -1,4 +1,4 @@
-# DL Image Processing Basics
+# Basic Image Processing
 
 ## Overview
 This project demonstrates **basic image processing operations** using a sample bird image. It covers common techniques used in computer vision and deep learning preprocessing.
